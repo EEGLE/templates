@@ -24,3 +24,6 @@
 
 ## Possible breaking change
 <!-- Not obligatory, provide a possible list of breaking change -->
+
+## Screenshot or mockup
+<!-- Not mandatory, if the feature is related to the UI/UX, a screenshot can be added -->
