@@ -31,3 +31,6 @@
 
 ## Browser
 <!-- Name of the browser and version -->
+
+## Screenshot
+<!-- Not mandatory, if the bug is related to the UI/UX, a screenshot can be added -->
